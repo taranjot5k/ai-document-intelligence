@@ -84,3 +84,7 @@ Open the local URL displayed by Vite, usually `http://localhost:5173`.
 ## Project Status
 
 Active development — core PDF processing and AI question-answering functionality implemented.
+
+## Application Preview
+
+![DocuMind Application](assets/documind-demo.png)
